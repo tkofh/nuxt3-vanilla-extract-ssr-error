@@ -1,0 +1,14 @@
+{
+  "name": "nuxt3-vanilla-extract-ssr-error",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "node .output/server/index.mjs"
+  },
+  "devDependencies": {
+    "@vanilla-extract/css": "^1.6.3",
+    "@vanilla-extract/vite-plugin": "^3.0.0",
+    "nuxt3": "latest"
+  }
+}
