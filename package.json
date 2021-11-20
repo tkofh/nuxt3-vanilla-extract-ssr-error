@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@vanilla-extract/css": "^1.6.3",
-    "@vanilla-extract/vite-plugin": "^3.0.0",
-    "nuxt3": "3.0.0-27255771.f78ec93"
+    "@vanilla-extract/vite-plugin": "^3.0.1",
+    "nuxt3": "3.0.0-27288761.d3fb512"
   }
 }

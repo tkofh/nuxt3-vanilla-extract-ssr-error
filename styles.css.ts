@@ -1,10 +1,6 @@
 import { style } from '@vanilla-extract/css'
 
-const flexRow = style({
+export const flexRow = style({
   display: 'flex',
   gap: '1rem',
 })
-
-export {
-  flexRow
-}
